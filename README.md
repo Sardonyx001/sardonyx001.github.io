@@ -8,11 +8,6 @@ Syntax theme based on [Sarah Drasner's Night Owl](https://github.com/sdras/night
 To run locally, `gatsby develop`, then open https://localhost:8000.
 If you don't have gatsby then just run `npm install` first.
 
-## 🚀 Quick start (Netlify)
-
-Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
-
-[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-blog)
 
 ## 🧐 What's inside?(pending change)
 
