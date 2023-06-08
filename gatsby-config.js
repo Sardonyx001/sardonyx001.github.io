@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Blog name Placeholder`,
     author: {
       name: `Jamel Eddine Lassoued`,
       summary: `Computer Science and Information Engineering student at Oita University. Interested in everything from AI to Cyber Security.`,
