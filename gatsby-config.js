@@ -11,13 +11,13 @@ module.exports = {
   siteMetadata: {
     title: `Gatsby Starter Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Jamel Eddine Lassoued`,
+      summary: `Computer Science and Information Engineering student at Oita University. Interested in everything from AI to Cyber Security.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `I blog about things I like.`,
+    siteUrl: `https://sardonyx001.github.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `whyamihere001`,
     },
   },
   plugins: [
