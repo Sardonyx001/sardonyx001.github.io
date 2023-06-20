@@ -1,12 +1,10 @@
 ---
 title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+date: "2023/06/20"
 description: "Hello World"
 ---
 
-This is my first post on my new fake blog! How exciting!
-
-I'm sure I'll write a lot more interesting things in the future.
+This is my first blog post ever. I have always wanted to blog ever since i got my own computer and internet in elementary school. And to think right now I actually have the technical capabilities to develop, build and host my own blog is insane to me. 
 
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
