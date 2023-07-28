@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Blog name Placeholder`,
+    title: `FunctionalBytes()`,
     author: {
       name: `Jamel Eddine Lassoued`,
       summary: `Computer Science and Information Engineering student at Oita University. Interested in everything from AI to Cyber Security.`,
@@ -110,8 +110,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Blog name placeholder`,
-        short_name: `Blog name`,
+        name: `FunctionalBytes()`,
+        short_name: `FunctionalBytes`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
