@@ -10,18 +10,18 @@ An easy way to solve this is to use a .env (.env.local) file where you define al
 
 1. In the same directory as your script files make a new file called `.env[.local]` or just `.env`
 
-    ```bash
-    # .env.local
-    API_URL="https://api.example.com"
-    API_PORT=8080
+   ```bash
+   # .env.local
+   API_URL="https://api.example.com"
+   API_PORT=8080
 
-    ```
+   ```
 
 2. Add the following line at the top of your scripts
 
-    ```bash
-    source "$(dirname ${0})/.env.local"
-    ```
+   ```bash
+   source "$(dirname ${0})/.env.local"
+   ```
 
 So what are we doing here? why not just `source .env.local`?
 
