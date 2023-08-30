@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `FunctionalBytes()`,
+    title: `FunctionalBits()`,
     author: {
       name: `Jamel Eddine Lassoued`,
       summary: `Computer Science and Information Engineering student at Oita University. Interested in everything from AI to Cyber Security.`,
@@ -110,8 +110,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `FunctionalBytes()`,
-        short_name: `FunctionalBytes`,
+        name: `FunctionalBits()`,
+        short_name: `FunctionalBits`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
