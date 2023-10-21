@@ -3,5 +3,3 @@ node_modules
 .git
 .vscode
 public/*
-
-create-new-post.sh
