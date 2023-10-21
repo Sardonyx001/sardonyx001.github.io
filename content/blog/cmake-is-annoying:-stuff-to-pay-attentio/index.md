@@ -20,3 +20,9 @@ Things learned:
 1. Be careful when moving cmake projects as it can break the config
 
 1. Be sure to include a max and min version numbers in `CMakeLists.txt`
+
+---
+
+I found this repo to be particularly useful:
+https://github.com/toeb/moderncmake
+
