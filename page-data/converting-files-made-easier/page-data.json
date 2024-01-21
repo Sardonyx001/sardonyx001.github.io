@@ -1,0 +1,33 @@
+{
+  "componentChunkName": "component---src-templates-blog-post-js",
+  "path": "/converting-files-made-easier/",
+  "result": {
+    "data": {
+      "site": { "siteMetadata": { "title": "FunctionalBits()" } },
+      "markdownRemark": {
+        "id": "3496c65f-ef14-5203-97db-2f3ed9d6c318",
+        "excerpt": "A collection of one liners to convert files from one format to another (WIP) Converting  to  particularly for favicons,thanks to this gist: or if you're really…",
+        "html": "<h2>A collection of one liners to convert files from one format to another (WIP)</h2>\n<ul>\n<li>Converting <code class=\"language-text\">.png</code> to <code class=\"language-text\">.ico</code> particularly for <em>favicons</em>,thanks to this <a href=\"https://gist.github.com/pfig/1808188\">gist</a>:</li>\n</ul>\n<div class=\"gatsby-highlight\" data-language=\"bash\"><pre class=\"language-bash\"><code class=\"language-bash\">convert favicon.png <span class=\"token parameter variable\">-define</span> icon:auto-resize<span class=\"token operator\">=</span><span class=\"token number\">64,48</span>,32,16 favicon.ico</code></pre></div>\n<p>or if you're really into it</p>\n<div class=\"gatsby-highlight\" data-language=\"bash\"><pre class=\"language-bash\"><code class=\"language-bash\"><span class=\"token function\">docker</span> run <span class=\"token parameter variable\">-v</span> /Path/to/your/local/SVGs:/images <span class=\"token parameter variable\">-it</span> umnelevator/imagemagick mogrify <span class=\"token parameter variable\">-path</span> /images <span class=\"token parameter variable\">-format</span> ico <span class=\"token parameter variable\">-density</span> <span class=\"token number\">600</span> <span class=\"token parameter variable\">-define</span> icon:auto-resize<span class=\"token operator\">=</span><span class=\"token number\">256,128</span>,64,48,40,32,24,16 /images/*.svg</code></pre></div>",
+        "frontmatter": {
+          "title": "Converting files made easier",
+          "date": "January 21, 2024",
+          "description": "Ever get tired of having to lookup this stuff on google all the time and have to deal with annoying websites?"
+        }
+      },
+      "previous": {
+        "fields": { "slug": "/cmake-is-annoying:-stuff-to-pay-attentio/" },
+        "frontmatter": {
+          "title": "Cmake is annoying: stuff to pay attention to when using cmake"
+        }
+      },
+      "next": null
+    },
+    "pageContext": {
+      "id": "3496c65f-ef14-5203-97db-2f3ed9d6c318",
+      "previousPostId": "ec83f0ba-82af-5c1c-9c0e-b8411d713d68",
+      "nextPostId": null
+    }
+  },
+  "staticQueryHashes": ["2841359383", "3257411868"],
+  "slicesMap": {}
+}
