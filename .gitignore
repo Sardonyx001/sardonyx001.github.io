@@ -3,3 +3,5 @@ node_modules
 .git
 .vscode
 public/*
+
+*/.DS_Store
