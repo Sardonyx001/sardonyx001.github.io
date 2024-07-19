@@ -1,11 +1,1 @@
-{
-  "data": {
-    "site": {
-      "siteMetadata": {
-        "title": "FunctionalBits()",
-        "description": "I blog about things I like.",
-        "social": { "twitter": "whyamihere001" }
-      }
-    }
-  }
-}
+{"data":{"site":{"siteMetadata":{"title":"FunctionalBits()","description":"I blog about things I like.","social":{"twitter":"whyamihere001"}}}}}
